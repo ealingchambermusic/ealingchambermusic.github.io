@@ -1,0 +1,18 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Ealing Chamber Music Club 
+email: ealingchambermusic@gmail.com
+description: A friendly amateur chamber music club in Ealing, West London.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://www.ecmc.org.uk" # the base hostname & protocol for your site
+twitter_username: EalingChmbrMus
+github_username: ealingchambermusic
+
+# Build settings
+markdown: kramdown

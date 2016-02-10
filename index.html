@@ -1,112 +1,23 @@
-<!DOCTYPE html>
-<html>
+---
+layout: default
+---
 
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <meta name="description" content="Ealingchambermusic.GitHub.io : The Ealing Chamber Music Club Website">
+<div class="home">
 
-    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+  <h1 class="page-heading">Posts</h1>
 
-    <title>Ealingchambermusic.GitHub.io</title>
-  </head>
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-  <body>
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
 
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          <a id="forkme_banner" href="https://github.com/ealingchambermusic">View on GitHub</a>
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
-          <h1 id="project_title">Ealingchambermusic.GitHub.io</h1>
-          <h2 id="project_tagline">The Ealing Chamber Music Club Website</h2>
-
-        </header>
-    </div>
-
-    <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-        <h1>
-<a id="the-ealing-chamber-music-club" class="anchor" href="#the-ealing-chamber-music-club" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>The Ealing Chamber Music Club</h1>
-
-<h2>
-<a id="about-us" class="anchor" href="#about-us" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>About us</h2>
-
-<p>We're a friendly amateur chamber music club based in Ealing, West London. The club allows players to find other people with similar interests and abilities and put together groups for works they'd like to play. We do not organise members into groups, but try to facilitate members meeting each other, and can advise on suitable people to ask.  We may also be able to provide music.  </p>
-
-<p>We have strings, woodwinds, vocalists, pianists, a recorder consort, and all sorts of interesting groups and combinations.  </p>
-
-<p>Some groups like to showcase their efforts to the rest of the club, and they can do this at the monthly meeting and concert, which takes place on the second Monday of each month (except August) at 8.00 p.m. in St Mary’s Church Perivale.The concert lasts up to an hour and then we have a free glass of wine and socialise. But there's no pressure to perform if you only like to play privately!  </p>
-
-<p><em>Guests</em>: you can bring as many guests as you like as audience. Guests may play in a concert with members, but if they wish to play more than once they are asked to join.  </p>
-
-<p>We also have "play-ins" in July and December, when we hope any members who feel like joining in will come along and have fun. As part of this we form an orchestra to read through something not too challenging in the second half of the programme.  </p>
-
-<p>Some members regularly take part in outreach events in schools. See the Other Activities page.  </p>
-
-<p>Members now have access to the extensive chamber music library donated by Anthea Sharma. Click here for the catalogue.  </p>
-
-<p>Consider joining!  </p>
-
-<h2>
-<a id="this-seasons-meeting-dates-and-organisers" class="anchor" href="#this-seasons-meeting-dates-and-organisers" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>This Season's Meeting Dates And Organisers</h2>
-
-<table>
-<thead>
-<tr>
-<th>Date</th>
-<th>Organiser</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>14th March</td>
-<td>Andrew Lewandowski</td>
-</tr>
-<tr>
-<td>11th April</td>
-<td>Saori Howse</td>
-</tr>
-<tr>
-<td>9th May</td>
-<td>Lewis Lev</td>
-</tr>
-<tr>
-<td>13th June</td>
-<td>John Heffernan</td>
-</tr>
-<tr>
-<td>11th July</td>
-<td>Liz Sharma</td>
-</tr>
-<tr>
-<td>------------</td>
-<td>-----------</td>
-</tr>
-</tbody>
-</table>
-      </section>
-    </div>
-
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
-      </footer>
-    </div>
-
-              <script type="text/javascript">
-            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-          </script>
-          <script type="text/javascript">
-            try {
-              var pageTracker = _gat._getTracker("UA-73611540-1");
-            pageTracker._trackPageview();
-            } catch(err) {}
-          </script>
-
-
-  </body>
-</html>
+</div>
