@@ -29,12 +29,12 @@ an orchestra to read through something not too challenging in the second half
 of the programme.  
 
 Some members regularly take part in outreach events in schools. See the 
-Other Activities page.
+[Other Activities](/other-activities) page.
 
 Members now have access to the extensive chamber music library donated by Anthea Sharma. 
 Click here for the catalogue.
 
-Consider joining!
+Consider [joining!](/join)
 
 ## This Season's Meeting Dates And Organisers
 
