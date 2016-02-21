@@ -2,10 +2,11 @@
 layout: page
 title: Anthea Sharma Music Library
 permalink: /music-library/
-catalogLink: /assets/composer-list-anthea-sharma-collection.xls
 ---
+![Anthea Sharma, a club member who has passed away, donated here music library to us](/images/anthea-sharma.jpg)
+
 ECMC members are welcome to borrow music from our new Anthea Sharma 
-Chamber Music library. The catalogue is [here]({{ page.catalogLink | prepend: site.url }}).
+Chamber Music library. The catalogue is [here](/assets/composer-list-anthea-sharma-collection.xls)
 
 By clicking onto the Box column and a/z, you should be able to convert it to whatever category of music is most relevant to you.
 
