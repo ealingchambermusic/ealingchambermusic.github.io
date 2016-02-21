@@ -13,6 +13,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.ecmc.org.uk" # the base hostname & protocol for your site
 twitter_username: EalingChmbrMus
 github_username: ealingchambermusic
+google_analytics: UA-73611540-1
+facebook: EalingChamberMusic
 
 # Build settings
 markdown: kramdown
