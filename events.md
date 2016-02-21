@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Events 
-permalink: /eventss/
+permalink: /events/
 ---
 ### Upcoming events
 
