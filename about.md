@@ -36,13 +36,3 @@ Click here for the catalogue.
 
 Consider [joining!](/join)
 
-## This Season's Meeting Dates And Organisers
-
-
-| Date        | Organiser          |
-| ----------- | ------------------ |
-| 14th March  | Andrew Lewandowski |
-| 11th April  | Saori Howse        |
-| 9th May     | Lewis Lev          |
-| 13th June   | John Heffernan     |
-| 11th July   | Liz Sharma         |
