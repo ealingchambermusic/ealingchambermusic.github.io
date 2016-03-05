@@ -6,7 +6,7 @@ permalink: /events/
 ### Upcoming events
 
 Our 2015-6 continues with the concert meeting on Monday, March 14th at St Mary's Church, Perivale. 
-The programme will be available soon.
+The programme is available to download [here](/assets/programmes/programme_16.03.pdf)
 
 | Date | Organiser |
 |------|-----------|

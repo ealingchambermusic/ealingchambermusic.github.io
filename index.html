@@ -12,8 +12,8 @@ layout: default
   put together groups for works they'd like to play. 
   <br/><br/>Read more about us on the <a href="/about">About</a> page.
   </p>
-<!--
-  <h1 class="page-heading">Posts</h1>
+
+  <h1>Posts</h1>
 
   <ul class="post-list">
     {% for post in site.posts %}
@@ -23,12 +23,12 @@ layout: default
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
-      </li>
+      	<div class="post-excerpt">{{ post.excerpt }}</div>
+	</li>
     {% endfor %}
   </ul>
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
--->
 
 
 <h2 id="dates-and-organisers">This Season's Meeting Dates And Organisers</h2>
