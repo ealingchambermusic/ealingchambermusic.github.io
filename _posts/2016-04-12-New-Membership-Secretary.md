@@ -1,6 +1,4 @@
 ---
-
----
 layout: post
 title: Our new Membership Secretary
 ---
