@@ -10,7 +10,6 @@ The programme is available to download [here](/assets/programmes/Programme_16.04
 
 | Date | Organiser |
 |------|-----------|
-| 14th March | Saori Howse | 
 | 11th April | Andrew Lewandowski |
 | 9th May | Lewis Lev |
 | 13th June | John Heffernan |
@@ -22,6 +21,7 @@ The programme is available to download [here](/assets/programmes/Programme_16.04
 
 ### Recent events
 
+- March 2016 concert [Programme](/assets/programmes/Programme_16.03.pdf)
 - February 2015 concert [Programme](/assets/programmes/programme_16.02.pdf)
 - December 2015 concert [Programme](/assets/programmes/programme_15.12.pdf)
 - November 2015 concert and AGM  [Programme](/assets/programmes/programme_15.11.pdf) [Programme Notes](/assets/programmes/201511-programme.pdf) [AGM Minutes 2014](/assets/agm-minutes-2014.doc), 
