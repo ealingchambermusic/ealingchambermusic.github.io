@@ -15,6 +15,7 @@ sign up, even if you think you may never go to one of their concerts. They are o
 
 
 ### Programme of events for the next fortnight
+
 | Date | Location | Time | Details|
 |------|----------|------|--------|
 | Sunday June 5th | St Mary’s Perivale | 7.30 pm | Ealing Symphony Orchestra Instrumental Ensembles |

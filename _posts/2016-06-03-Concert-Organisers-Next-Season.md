@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Concert organisers For the next season (2016-2017)
----
+title: Concert organisers for 2016-2017
+---------------------------------------
 Here is the draft rota for the concert organisers for next season. Note this is still subject to change! 
 
 ### 2016
@@ -14,6 +14,7 @@ Here is the draft rota for the concert organisers for next season. Note this is 
 |Dec 12|Liz Sharma|
  
 ### 2017 
+
 |Date|Organiser|
 |----|----------|
 |Jan 9|Andrew Lewandowski|
