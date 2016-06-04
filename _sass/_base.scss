@@ -205,6 +205,17 @@ pre {
     }
 }
 
+th {
+    txm-align: left;
+}
+
+tr {
+    font-size: 90%;
+}
+
+table {
+    border: 1px solid $grey-color;
+}
 
 .post-excerpt {
 	font-size: 90%;
