@@ -5,13 +5,11 @@ permalink: /events/
 ---
 ### Upcoming events
 
-Our 2015-6 continues with the concert meeting on Monday, 11th April at St Mary's Church, Perivale. 
-The programme is available to download [here](/assets/programmes/Programme_16.04.pdf)
+Our 2015-6 season concludes with the concert meeting on Monday, 13th June at St Mary's Church, Perivale. 
+The programme is available to download [here](/assets/programmes/Programme_16.06.pdf)
 
 | Date | Organiser |
 |------|-----------|
-| 11th April | Andrew Lewandowski |
-| 9th May | Lewis Lev |
 | 13th June | John Heffernan |
 | 11th July | Liz Sharma |
 | Sept 12 | Saori Howse |
@@ -20,7 +18,8 @@ The programme is available to download [here](/assets/programmes/Programme_16.04
 | Dec 12 | Liz Sharma |  
 
 ### Recent events
-
+- May 2016 concert [Programme](/assets/programmes/Programme_16.06.pdf)
+- April 2016 concert [Programme](/assets/programmes/Programme_16.04.pdf)
 - March 2016 concert [Programme](/assets/programmes/Programme_16.03.pdf)
 - February 2015 concert [Programme](/assets/programmes/programme_16.02.pdf)
 - December 2015 concert [Programme](/assets/programmes/programme_15.12.pdf)
