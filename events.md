@@ -5,7 +5,7 @@ permalink: /events/
 ---
 ### Upcoming events
 
-Our 2015-6 season concludes with the concert meeting on Monday, 13th June at St Mary's Church, Perivale. 
+Our penultimate concert for the 2015-6 is on Monday, 13th June at St Mary's Church, Perivale. 
 The programme is available to download [here](/assets/programmes/Programme_16.06.pdf)
 
 | Date | Organiser |
