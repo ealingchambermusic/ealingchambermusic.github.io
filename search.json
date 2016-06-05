@@ -1,7 +1,3 @@
----
-sitemap: false
----
-
 [
 {% for post in site.posts %}
   {% if post.title != null and post.title != empty and post.search_omit != true %}
@@ -13,6 +9,7 @@ sitemap: false
   {% endif %}
 {% endfor %}
 
+{% if site.pages %}
 {% for page in site.pages %}
   {% if page.layout != 'none' and page.layout != 'none' and page.title != null and page.title != empty and page.search_omit != true %}
     {% if forloop.index > 1 %},{% endif %}{
@@ -22,4 +19,5 @@ sitemap: false
     }
   {%endif%}
 {% endfor %}
+{% endif %}
 ]
