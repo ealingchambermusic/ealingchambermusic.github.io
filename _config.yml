@@ -1,16 +1,11 @@
 # Site wide configuration
-title: Ealing Chamber Music Club
-email: ealingchambermusic@gmail.com
-description: A friendly amateur chamber music club in Ealing, West London.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.ecmc.org.uk" # the base hostname & protocol for your site
-twitter_username: EalingChmbrMus
-github_username: ealingchambermusic
-google_analytics: UA-73611540-1
-facebook_username: EalingChamberMusic
-locale: en_GB
-# logo: site-logo.png
+
+title: Site Title
+locale: en_US
+description: Describe your website here.
+logo: site-logo.png
 search: true
+url: http://localhost:4000
 
 # Jekyll configuration
 
@@ -41,13 +36,13 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Ealing Chamber Music Club
+  name: Your Name
   avatar: bio-photo.jpg
-  email: ealingchambermusic@gmail.com
+  email: you@email.com
   disqus-shortname:
-  twitter: EalingChmbrMus
-  facebook: EalingChamberMusic
-  github: ealingchambermusic
+  twitter: #username
+  facebook: #username
+  github: #username
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
@@ -57,7 +52,7 @@ owner:
   weibo: #userid
   google:
     plus: #username
-    analytics: UA-73611540-1
+    analytics:
     verify:
     ad-client:
     ad-slot:

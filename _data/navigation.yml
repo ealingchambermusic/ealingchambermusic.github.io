@@ -3,20 +3,14 @@
 - title: About
   url: /about/
 
-- title: Events
-  url: /events
-
-- title: Join
-  url: /join
-
 - title: Articles
   url: /articles/
 
-- title: Gallery
-  url: /gallery
-
 - title: Blog
   url: /blog/
+
+- title: Theme Setup
+  url: /theme-setup/
 
 - title: Search
   url: /search/
