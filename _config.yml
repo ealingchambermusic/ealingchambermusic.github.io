@@ -1,12 +1,5 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-title: Ealing Chamber Music Club 
+# Site wide configuration
+title: Ealing Chamber Music Club
 email: ealingchambermusic@gmail.com
 description: A friendly amateur chamber music club in Ealing, West London.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -15,6 +8,57 @@ twitter_username: EalingChmbrMus
 github_username: ealingchambermusic
 google_analytics: UA-73611540-1
 facebook_username: EalingChamberMusic
+locale: en_GB
+# logo: site-logo.png
+search: true
 
-# Build settings
-markdown: kramdown
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+
+kramdown:
+  input: GFM
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..2
+  enable_coderay: false
+
+mathjax: true
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", ".less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
+
+
+# Site owner
+owner:
+  name: Ealing Chamber Music Club
+  avatar: bio-photo.jpg
+  email: ealingchambermusic@gmail.com
+  disqus-shortname:
+  twitter: EalingChmbrMus
+  facebook: EalingChamberMusic
+  github: ealingchambermusic
+  stackexchange: #http://stackoverflow.com/users/123456/username
+  linkedin: #username
+  instagram: #username
+  flickr: #username
+  tumblr: #username
+  pinterest: #username
+  weibo: #userid
+  google:
+    plus: #username
+    analytics: UA-73611540-1
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:

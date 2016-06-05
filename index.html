@@ -7,24 +7,25 @@ layout: default
   <h1>Welcome!</h1>
 
   <p>
-  We're a friendly amateur chamber music club based in Ealing, West London. 
-  We help players to find other people with similar interests and abilities and 
-  put together groups for works they'd like to play. 
+  We're a friendly amateur chamber music club based in Ealing, West London.
+  We help players to find other people with similar interests and abilities and
+  put together groups for works they'd like to play.
   <br/><br/>Read more about us on the <a href="/about">About</a> page.
   </p>
 
   <h1>Posts</h1>
 
   <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      	<div class="post-excerpt">{{ post.content | strip_html | truncatewords: 150 }}</div>
-	</li>
+    {% for post in site.posts limit:10 %}
+    <li>
+      <article>
+        <a href="{{ site.url }}{{ post.url }}">
+          {{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>
+          {% if post.excerpt %}
+          <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>
+          {% endif %}
+        </a>
+      </article></li>
     {% endfor %}
   </ul>
 
