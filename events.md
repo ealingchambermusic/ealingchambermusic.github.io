@@ -5,20 +5,27 @@ permalink: /events/
 ---
 ### Upcoming events
 
-Our penultimate concert for the 2015-6 is on Monday, 13th June at St Mary's Church, Perivale. 
-The programme is available to download [here](/assets/programmes/Programme_16.06.pdf)
+Our next concert will be Monday, 0th October at St Mary's Church, Perivale. 
+The programme is available to download [here](/assets/programmes/Programme_16.10.pdf)
 
 | Date | Organiser |
 |------|-----------|
-| 13th June | John Heffernan |
-| 11th July | Liz Sharma |
-| Sept 12 | Saori Howse |
-| Oct 10 | Lewis Lev |
-| Nov 14 | David Smith |
-| Dec 12 | Liz Sharma |  
-
+|Nov 14 2017|David Smith|
+|Dec 12 2017|Liz Sharma|
+|Jan 9 2017|Andrew Lewandowski|
+|Feb 13 2017|John Heffernan|
+|Mar 2017|Saori Howse|
+|April 2017|Lewis Lev|
+|May 2017|John Heffernan|
+|June 2017|Andrew Lewandowski|
+|July 2017|Liz Sharma|
+ 
+|
 ### Recent events
-- May 2016 concert [Programme](/assets/programmes/Programme_16.06.pdf)
+- September 2016 concert [Programme](/assets/programmes/Programme_16.09.pdf)
+- July 2016 concert [Programme](/assets/programmes/Programme_16.07.pdf)
+- June 2016 concert [Programme](/assets/programmes/Programme_16.06.pdf) 
+- May 2016 concert [Programme](/assets/programmes/Programme_16.05.pdf)
 - April 2016 concert [Programme](/assets/programmes/Programme_16.04.pdf)
 - March 2016 concert [Programme](/assets/programmes/Programme_16.03.pdf)
 - February 2015 concert [Programme](/assets/programmes/programme_16.02.pdf)
