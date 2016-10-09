@@ -20,7 +20,6 @@ The programme is available to download [here](/assets/programmes/Programme_16.10
 |June 2017|Andrew Lewandowski|
 |July 2017|Liz Sharma|
  
-|
 ### Recent events
 - September 2016 concert [Programme](/assets/programmes/Programme_16.09.pdf)
 - July 2016 concert [Programme](/assets/programmes/Programme_16.07.pdf)
