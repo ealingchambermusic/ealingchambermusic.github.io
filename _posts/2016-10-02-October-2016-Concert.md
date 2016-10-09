@@ -1,7 +1,7 @@
 ---
 layout: post
 title: October Concert
---------------------------------
+---
 The programme is available to download [here](/assets/programmes/Programme_16.10.pdf)
 
 Our next concert will be on Monday 10th October. First we have four 

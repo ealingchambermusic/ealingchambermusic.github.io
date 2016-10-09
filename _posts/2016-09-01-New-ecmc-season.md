@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New ECMC season starts 12th September
-------
+---
 Welcome to the start of the Club’s 13th season and its 120th concert. This is a proud record.
 
 Before giving you the details for 12th September, I’d like to refresh your memory on the 

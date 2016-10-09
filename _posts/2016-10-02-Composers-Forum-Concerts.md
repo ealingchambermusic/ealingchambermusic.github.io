@@ -1,7 +1,7 @@
 ---
 layout: post
 title: COMPOSERS’ FORUM CONCERTS
---------------------------------
+---
 *A message from Liz Sharma*
 
 Welcome to the new ECMC season. We started with a lovely concert on Monday 12th, 

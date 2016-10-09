@@ -1,7 +1,7 @@
 ---
 layout: post
 title: September 2016 Concert
------------------------------
+---
 The programme is available to download [here](/assets/programmes/Programme_16.09.pdf)
 
 

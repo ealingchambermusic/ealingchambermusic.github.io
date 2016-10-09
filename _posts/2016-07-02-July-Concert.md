@@ -1,7 +1,7 @@
 ---
 layout: post
 title: July 2016 Concert
-------------------------
+---
 Please come to the final concert of the season on July 11th, which 
 will of course feaure the _LES MISERABLES_ Singalong.
 
