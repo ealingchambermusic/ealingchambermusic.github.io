@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AGM Reminder
+title: A.G.M Reminder
 ----
 
 The AGM has come round again, and will be at the end of the
