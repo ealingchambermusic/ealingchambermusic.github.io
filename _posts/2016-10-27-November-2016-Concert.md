@@ -1,7 +1,8 @@
 ---
 layout: post
 title: November Concert
------------------------
+---
+
 The programme is available to download [here](/assets/programmes/Programme_16.11.pdf)
 
 Firstly, the *Milhaud Suite for violin, clarinet and piano Op.157b*
