@@ -3,47 +3,46 @@ layout: default
 ---
 
 <div class="home">
-  <img src="/images/mousicians-small.jpg"></img>
-  <h1>Welcome!</h1>
+    <img src="/images/mousicians-small.jpg"></img>
+    <h1>Welcome!</h1>
 
-  <p>
-  We're a friendly amateur chamber music club based in Ealing, West London. 
-  We help players to find other people with similar interests and abilities and 
-  put together groups for works they'd like to play. 
-  <br/><br/>Read more about us on the <a href="/about">About</a> page.
-  </p>
+    <p>
+        We're a friendly amateur chamber music club based in Ealing, West London.
+        We help players to find other people with similar interests and abilities and
+        put together groups for works they'd like to play.
+        <br/><br/>Read more about us on the <a href="/about">About</a> page.
+    </p>
 
-  <h1>Posts</h1>
+    <h1>Posts</h1>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+    <ul class="post-list">
+        {% for post in site.posts %}
+        <li>
+            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      	<div class="post-excerpt">{{ post.content | strip_html | truncatewords: 150 }}</div>
-	</li>
-    {% endfor %}
-  </ul>
+            <h2>
+                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </h2>
+            <div class="post-excerpt">{{ post.content | strip_html | truncatewords: 150 }}</div>
+        </li>
+        {% endfor %}
+    </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 
-<h2 id="dates-and-organisers">This Season's Meeting Dates And Organisers</h2>
-<p>For more details, see the <a href="/events">Events</a> page.</p>
+    <h2 id="dates-and-organisers">This Season's Meeting Dates And Organisers</h2>
+    <p>For more details, see the <a href="/events">Events</a> page.</p>
 
-<ul>
- <li><b>Feb 8</b>: John Heffernan</li>
- <li><b>March 14</b>: Saori Howse</li>
- <li><b>April 11</b>: Andrew Lewandowski</li>
- <li><b>May 9</b>: Lewis Lev</li>
- <li><b>June 13</b>: John Heffernan</li>
- <li><b>July 11</b>: Liz Sharma</li>
- <li><b>Sept 12</b>: Saori Howse</li>
- <li><b>Oct 10</b>: Lewis Lev</li>
- <li><b>Nov 14</b>: David Smith</li>
- <li><b>Dec 12</b>: Liz Sharma</li>
-</ul>
+    <ul>
+        <li><b>Nov 14</b>: David Smith</li>
+        <li><b>Dec 12</b>: Liz Sharma</li>
+        <li><b>Jan 9 2017</b>: Andrew Lewandowski</li>
+        <li><b>Feb 13 2017</b>: John Heffernan</li>
+        <li><b>Mar 2017</b>: Saori Howse</li>
+        <li><b>April 2017</b>: Lewis Lev</li>
+        <li><b>May 2017</b>: John Heffernan</li>
+        <li><b>June 2017</b>: Andrew Lewandowski</li>
+        <li><b>July 2017</b>: Liz Sharma</li>
+    </ul>
 </div>

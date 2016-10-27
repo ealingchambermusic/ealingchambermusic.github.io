@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A.G.M Reminder
-----
+---
 
 The AGM has come round again, and will be at the end of the
  [14th November concert](/2016/10/27/November-2016-Concert.html). 
