@@ -6,4 +6,4 @@ title: Violins for sale
 2. German violin c.1880.  Insured for £700.
 3. Silver mounted ebony German violin bow.  Insured for £300
 
-Contact Jennifer Woodhouse, jennifer@oakleyave.plus.com
+Contact Jennifer Woodhouse, [jennifer@oakleyave.plus.com](mailto:jennifer@oakleyave.plus.com).

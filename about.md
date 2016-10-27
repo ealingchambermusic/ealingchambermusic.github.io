@@ -32,7 +32,7 @@ Some members regularly take part in outreach events in schools. See the
 [Other Activities](/other-activities) page.
 
 Members now have access to the extensive chamber music library donated by Anthea Sharma. 
-Click here for the catalogue.
+Click [here](/assets/composer-list-anthea-sharma-collection.xls) for the catalogue.
 
 Consider [joining!](/join)
 
