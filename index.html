@@ -14,7 +14,6 @@ layout: default
     </p>
 
     <h1>Recent Posts</h1>
-
     <ul class="post-list">
         {% for post in site.posts limit:4 %}
         <li>
@@ -28,6 +27,8 @@ layout: default
         {% endfor %}
     </ul>
 
+    See older posts <a href="/posts/index.html">here</a>.
+    
     <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 
