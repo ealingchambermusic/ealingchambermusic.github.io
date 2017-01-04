@@ -6,7 +6,7 @@ title: A.G.M Reminder
 The AGM has come round again, and will be at the end of the
  [14th November concert](/2016/10/27/November-2016-Concert.html). 
 
-The agenda is available [here](/assets/a.g.n-agenda-2016.pdf).
+The agenda is available [here](/assets/a.g.m-agenda-2016.pdf).
 
 I'll attach the minutes from 2015 to this month's newsletter. 
 If you are coming, please print your own, as I am finding it too heavy on 
