@@ -20,6 +20,7 @@ several of whom are also members of ECMC. The group was originally formed
 to participate with other choirs in a Remembrance Day concert in Worthing 
 last year, and continued because we all enjoyed it. This will be our second 
 appearance at St. Mary’s, and the programme will include:
+
 * _‘O magnum mysterium’_ by Byrd
 * _‘Hodie Christus natus est’_ by Poulenc 
 * _‘The Lamb’_ by John Tavener – a setting of Blake’s poem.
@@ -27,6 +28,7 @@ appearance at St. Mary’s, and the programme will include:
   originally written for the film musical _“Meet me in St Louis.”_ (1944)
 
 The singers are:
+
 * Sopranos: Emily, Griggs, Helena Gumley-Mason, Joey Innes-Hopkins and Hilary Potts,
 * Altos: Angela Hailstone, Heather Humphries and Alice Laddiman
 * Tenors: Patrick Grattan and John Martin
@@ -43,7 +45,8 @@ which is what I am doing, though I am also bringing Cliff Bradley to
 add a bit of body on bass guitar.  It is based, of course, on the famous 
 bagatelle by Beethoven.”  
  
-###All-comers PLAY-IN.
+### All-comers PLAY-IN.
+
 Please all bring your instruments. We will play Purcell's beautiful _'Chaconne'_, 
 arranged as a little concerto grosso, with recorder trio, only one of a number of 
 arrangements of it which Liz has made.

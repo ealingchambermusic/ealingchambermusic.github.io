@@ -44,6 +44,7 @@ life as a viola player under the baton of Henry Wood, but soon found he could ma
 composing light music, especially songs and ballads. The earliest Shakespeare settings were performed at a
 Promenade concert in 1909 and “Tell me where is fancy bred” for a performance of the play in 1912.
 We will hear:
+
 * _Tell Me Where is Fancy Bred?_ - The Merchant of Venice,
 * _Orpheus with his Lute_ - Henry VIII
 
@@ -51,6 +52,7 @@ Roger Quilter’s set of _"Three Shakespeare Songs" Op.6_, was composed in 1905.
 successful of his seventeen Shakespeare settings. Commentators seem to have varied opinions of
 them, varying from “excruciatingly sloppy” to “rhythmically powerful.”
 Jo and David conclude with:
+
 * _O Mistress Mine_ - Twelfth Night
 * _Come away death_ - Twelfth Night
 * _Blow, Blow Thou Winter Wind_ - As You Like It
