@@ -5,14 +5,11 @@ permalink: /events/
 ---
 ### Upcoming events
 
-Our next concert will be Monday, 14th November at St Mary's Church, Perivale. 
-The programme is available to download [here](/assets/programmes/Programme_16.11.pdf)
+Our next concert will be Monday, 9th January at St Mary's Church, Perivale. 
+The programme is available to download [here](/assets/programmes/Programme_17.01.pdf)
 
 | Date | Organiser |
 |------|-----------|
-|Nov 14 2017|David Smith|
-|Dec 12 2017|Liz Sharma|
-|Jan 9 2017|Andrew Lewandowski|
 |Feb 13 2017|John Heffernan|
 |Mar 2017|Saori Howse|
 |April 2017|Lewis Lev|
@@ -21,6 +18,8 @@ The programme is available to download [here](/assets/programmes/Programme_16.11
 |July 2017|Liz Sharma|
  
 ### Recent events
+- December 2016 concert and all-comer's play-in [Programme](/assets/programmes/Programme_16.12.pdf)
+- November 2016 concert and AGM [Programme](/assets/programmes/Programme_16.11.pdf) [AGM Agenda 2016](/assets/a.g.m-agenda-2016.pdf) [AGM Minutes 2016](/assets/AGM-Minutes-2016.pdf)
 - October 2016 concert [Programme](/assets/programmes/Programme_16.10.pdf)
 - September 2016 concert [Programme](/assets/programmes/Programme_16.09.pdf)
 
