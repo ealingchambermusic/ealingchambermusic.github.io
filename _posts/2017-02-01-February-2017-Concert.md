@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our next members' concert on 9th January 2017
+title: Our members' concert on 13th February 2017
 ---
 
 Dear ECMC Member/Friend,
