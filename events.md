@@ -5,7 +5,7 @@ permalink: /events/
 ---
 ### Upcoming events
 
-Our next concert will be Monday, 13th Febryart at St Mary's Church, Perivale. 
+Our next concert will be Monday, 13th February at St Mary's Church, Perivale. 
 The programme is available to download [here](/assets/programmes/Programme_17.02.pdf)
 
 | Date | Organiser |
